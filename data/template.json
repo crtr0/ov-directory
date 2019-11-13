@@ -1,0 +1,106 @@
+{
+    "grades": {
+        "K":
+            {
+                "teachers": [
+                    {
+                        "lname": "Heindl",
+                        "classroom": "1"
+                    },
+                    {
+                        "lname": "Vogel",
+                        "classroom": "104"
+                    },
+                    {
+                        "lname": "Nash",
+                        "classroom": "103"
+                    },
+                    {
+                        "lname": "Cieslar",
+                        "classroom": ""
+                    }
+                ]
+            }, 
+        "1":
+            {
+                "teachers": [
+                    {
+                        "lname": "Fenigsohn",
+                        "classroom": "101"
+                    },
+                    {
+                        "lname": "Geldenhuys",
+                        "classroom": "102"
+                    },
+                    {
+                        "lname": "Mora",
+                        "classroom": "100"
+                    }
+                ]
+            }, 
+        "2":
+            {
+                "teachers": [
+                    {
+                        "lname": "Schwab",
+                        "classroom": "106"
+                    },
+                    {
+                        "lname": "Murphy",
+                        "classroom": "107"
+                    },
+                    {
+                        "lname": "Abercrombie",
+                        "classroom": "108"
+                    }
+                ]
+            }, 
+        "3":
+            {
+                "teachers": [
+                    {
+                        "lname": "Cooley",
+                        "classroom": "206"
+                    },
+                    {
+                        "lname": "Cooper",
+                        "classroom": "207"
+                    },
+                    {
+                        "lname": "Foster",
+                        "classroom": "208"
+                    }
+                ]
+            }, 
+        "4":
+            {
+                "teachers": [                    {
+                    "lname": "Maiani",
+                    "classroom": "203"
+                },
+                {
+                    "lname": "Mahlik",
+                    "classroom": "P2"
+                },
+                {
+                    "lname": "Dunne",
+                    "classroom": "204"
+                }]
+            }, 
+        "5":
+            {
+                "teachers": [                    {
+                    "lname": "Boveng",
+                    "classroom": "201"
+                },
+                {
+                    "lname": "Kreiter",
+                    "classroom": "200"
+                },
+                {
+                    "lname": "Phillips",
+                    "classroom": "202"
+                }]
+            }
+    }
+}
